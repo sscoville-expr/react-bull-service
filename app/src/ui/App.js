@@ -1,6 +1,5 @@
 import React from 'react';
 import logo from './logo.svg';
-import { Queue } from 'bull'
 import './App.css';
 
 function App() {
